@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Running
+1. Enable Google Map and Google Named Entity Recognition in GCP Platform
+2. Make .env from .env.example
+3. Fill your google api key in .env
+4. Run ```flutter pub get``` to install package
+5. Run ```flutter run``` to run 
